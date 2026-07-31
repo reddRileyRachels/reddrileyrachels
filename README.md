@@ -8,7 +8,7 @@ I'm a senior software engineering student at Indiana Tech with experience as a F
 - Back-end: ASP.NET, Node.js, Dapper ORM
 - Tools: Visual Studio, VS Code, Git, GitHub, GitLab, Docker, Jira
 #### Contact Me:
-<img src="linkedin.png" align="left" width="24" display="block">[linkedin.com/in/riley-rachels/](https://www.linkedin.com/in/riley-rachels/)<br>
+<img src="linkedin.png" align="left" width="24" display="block">[linkedin.com/in/riley-rachels/](https://www.linkedin.com/in/riley-rachels/)<br><br/>
 <img src="gmail.png" align="left" width="24"> reddrileyrachels@gmail.com
 #### Favorite Projects: 
 - [Tutor Bookings](https://github.com/reddRileyRachels/TutorBookings) (HTML/CSS/C#/ASP.NET/SQLite/Dapper)
