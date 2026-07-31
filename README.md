@@ -8,8 +8,8 @@ I'm a senior software engineering student at Indiana Tech with experience as a F
 - Back-end: ASP.NET, Node.js, Dapper ORM
 - Tools: Visual Studio, VS Code, Git, GitHub, GitLab, Docker, Jira
 #### Contact Me:
-<img src="linkedin.png" align="left" width="23" display="block">[linkedin.com/in/riley-rachels/](https://www.linkedin.com/in/riley-rachels/)<br>
-<img src="gmail.png" align="left" width="23"> reddrileyrachels@gmail.com
+<img src="linkedin.png" align="left" width="22" display="block">[linkedin.com/in/riley-rachels/](https://www.linkedin.com/in/riley-rachels/)<br>
+<img src="gmail.png" align="left" width="22"> reddrileyrachels@gmail.com
 #### Favorite Projects: 
 - [Tutor Bookings](https://github.com/reddRileyRachels/TutorBookings) (HTML/CSS/C#/ASP.NET/SQLite/Dapper)
   - Tutor scheduling web application that supports recurring appointments
@@ -28,5 +28,5 @@ I'm a senior software engineering student at Indiana Tech with experience as a F
   - Original pixel art
 
 ##### Credit For Icons: 
-<img src="linkedin.png" align="left" width="23" display="block"><a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a><br/>
-<img src="gmail.png" align="left" width="23"><a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Magnific - Flaticon</a>
+<img src="linkedin.png" align="left" width="22" display="block"><a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a><br/>
+<img src="gmail.png" align="left" width="22"><a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Magnific - Flaticon</a>
