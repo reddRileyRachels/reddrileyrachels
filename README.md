@@ -1,7 +1,7 @@
 ## Hello all, I'm Riley!
 #### About Me:
 I'm a senior software engineering student at Indiana Tech with experience as a Full-Stack Developer Intern. I tutor math and computer science for my school and aspire to work in back-end or full-stack development. I'm an artist and made the drawings for this account (like that super cool painting of me right on this read me)! I love problem-solving and learning, especially new technologies, and I'm always up for a challenge! 
-<img src="SelfPortrait.PNG" align="right" width="500">
+<img src="SelfPortrait.PNG" align="right" width="450">
 #### Technologies: 
 - Languages: Python, Java, C++, C#, TypeScript, SQL (MS SQL Server, SQLite)
 - Front-end: HTML, CSS, React, Material UI
