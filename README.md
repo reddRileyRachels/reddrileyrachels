@@ -20,8 +20,13 @@ I'm a senior software engineering student at Indiana Tech with experience as a F
   - Systems of linear equations calculator that shows each step to the user
   - Uses a Gaussian elimination algorithm showing all matrix row operations
   - Collaborative
-- [Cat Dress Up Game](https://github.com/reddRileyRachels/catDressUpPygame) (Python/Pygame) <img src="DressUpCatScreenshot.jpg" align="right" width="500">
+  <img src="DressUpCatScreenshot.jpg" align="right" width="500">
+- [Cat Dress Up Game](https://github.com/reddRileyRachels/catDressUpPygame) (Python/Pygame)
   - Dress up game that is cat themed
   - Multiple tabs with clothing selection carousels and color selection 
   - Randomize and reset buttons
   - Original pixel art
+
+##### Credit For Icons: 
+<img src="linkedin.png" align="left" width="23" display="block"><a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a><br/>
+<img src="gmail.png" align="left" width="23"><a href="https://www.flaticon.com/free-icons/email" title="email icons">Email icons created by Magnific - Flaticon</a>
