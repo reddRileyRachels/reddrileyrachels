@@ -1,14 +1,15 @@
 ## Hello all, I'm Riley!
 #### About Me:
-I'm a senior software engineering student at Indiana Tech with experience as a Full-Stack Developer Intern. I love art and drew the profile picture for this account! I tutor math and computer science for my school and aspire to work in back-end or full-stack development. I love problem-solving and learning, especially new technologies, and I'm always up for a challenge!
-#### Technologies:
+I'm a senior software engineering student at Indiana Tech with experience as a Full-Stack Developer Intern. I tutor math and computer science for my school and aspire to work in back-end or full-stack development. I'm an artist and made the drawings for this account (like that super cool painting of me right on this read me)! I love problem-solving and learning, especially new technologies, and I'm always up for a challenge! 
+<img src="SelfPortrait.PNG" align="right" width="400">
+#### Technologies: 
 - Languages: Python, Java, C++, C#, TypeScript, SQL (MS SQL Server, SQLite)
 - Front-end: HTML, CSS, React, Material UI
 - Back-end: ASP.NET, Node.js, Dapper ORM
 - Tools: Visual Studio, VS Code, Git, GitHub, GitLab, Docker, Jira
 #### Contact Me:
-LinkedIn: [linkedin.com/in/riley-rachels/](https://www.linkedin.com/in/riley-rachels/)<br>
-Email: reddrileyrachels@gmail.com
+<img src="linkedin.png" align="left" width="23" display="block">[linkedin.com/in/riley-rachels/](https://www.linkedin.com/in/riley-rachels/)<br>
+<img src="gmail.png" align="left" width="23"> reddrileyrachels@gmail.com
 #### Favorite Projects: 
 - [Tutor Bookings](https://github.com/reddRileyRachels/TutorBookings) (HTML/CSS/C#/ASP.NET/SQLite/Dapper)
   - Tutor scheduling web application that supports recurring appointments
@@ -19,7 +20,7 @@ Email: reddrileyrachels@gmail.com
   - Systems of linear equations calculator that shows each step to the user
   - Uses a Gaussian elimination algorithm showing all matrix row operations
   - Collaborative
-- [Cat Dress Up Game](https://github.com/reddRileyRachels/catDressUpPygame) (Python/Pygame) <img src="DressUpCatScreenshot.jpg" align="right" width="300">
+- [Cat Dress Up Game](https://github.com/reddRileyRachels/catDressUpPygame) (Python/Pygame) <img src="DressUpCatScreenshot.jpg" align="right" width="500">
   - Dress up game that is cat themed
   - Multiple tabs with clothing selection carousels and color selection 
   - Randomize and reset buttons
