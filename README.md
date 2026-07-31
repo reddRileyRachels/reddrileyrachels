@@ -25,7 +25,7 @@ I'm a senior software engineering student at Indiana Tech with experience as a F
   - Dress up game that is cat themed
   - Multiple tabs with clothing selection carousels and color selection 
   - Randomize and reset buttons
-  - Original pixel art
+  - Original pixel art -->
 
 ##### Credit For Icons: 
 <img src="linkedin.png" align="left" width="24" display="block"><a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a><br/>
