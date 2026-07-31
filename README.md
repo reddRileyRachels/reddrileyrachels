@@ -19,8 +19,8 @@ Email: reddrileyrachels@gmail.com
   - Systems of linear equations calculator that shows each step to the user
   - Uses a Gaussian elimination algorithm showing all matrix row operations
   - Collaborative
-- [Cat Dress Up Game](https://github.com/reddRileyRachels/catDressUpPygame) (Python/Pygame)
+- [Cat Dress Up Game](https://github.com/reddRileyRachels/catDressUpPygame) (Python/Pygame) <img src="DressUpCatScreenshot.jpg" align="right" width="300">
   - Dress up game that is cat themed
-  - Multiple tabs with clothing selection carousels and color selection
+  - Multiple tabs with clothing selection carousels and color selection 
   - Randomize and reset buttons
   - Original pixel art
